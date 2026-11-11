@@ -29,3 +29,6 @@ migrate_working_dir/
 # Symbol processing related
 **/build/
 
+
+# Local demo projects
+demo_app/
