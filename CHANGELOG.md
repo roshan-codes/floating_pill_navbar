@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1
+
+- Added high-resolution live visual preview screenshot in README.
+- Enhanced package documentation with interactive usage examples and badges.
+- Added GitHub Actions continuous integration workflow.
+- Updated topics for improved pub.dev package discoverability.
+
 ## 1.0.0
 
 - Initial stable release of `floating_pill_navbar`.
@@ -11,4 +18,3 @@
 - Theming support with `FloatingPillTheme` and `FloatingPillThemeData.dark()`.
 - Responsive layout support for mobile, tablet, RTL, and safe insets.
 - Complete example app with 10 interactive showcase screens.
-
