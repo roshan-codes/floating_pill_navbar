@@ -1,5 +1,9 @@
 # floating_pill_navbar
 
+[![pub package](https://img.shields.io/pub/v/floating_pill_navbar.svg)](https://pub.dev/packages/floating_pill_navbar)
+[![pub points](https://img.shields.io/pub/points/floating_pill_navbar)](https://pub.dev/packages/floating_pill_navbar/score)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/roshan-codes/floating_pill_navbar/blob/main/LICENSE)
+
 A customizable floating pill-shaped bottom navigation bar with a companion circular action button for Flutter.
 
 Inspired by modern, minimal iOS design patterns with soft shadows, capsule selection highlights, and smooth micro-interactions.
