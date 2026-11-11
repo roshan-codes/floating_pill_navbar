@@ -1,0 +1,20 @@
+name: floating_pill_navbar
+description: A beautiful, customizable floating pill-shaped bottom navigation bar with a circular floating action button for Flutter.
+version: 1.0.0
+homepage: https://github.com/roshan-codes/floating_pill_navbar
+repository: https://github.com/roshan-codes/floating_pill_navbar
+issue_tracker: https://github.com/roshan-codes/floating_pill_navbar/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
