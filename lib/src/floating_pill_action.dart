@@ -86,4 +86,3 @@ class FloatingPillAction {
   /// Optional Hero tag for screen transitions.
   final Object? heroTag;
 }
-

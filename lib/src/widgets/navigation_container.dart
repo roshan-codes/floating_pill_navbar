@@ -85,4 +85,3 @@ class NavigationContainerWidget extends StatelessWidget {
     );
   }
 }
-

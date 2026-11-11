@@ -5,6 +5,13 @@ homepage: https://github.com/roshan-codes/floating_pill_navbar
 repository: https://github.com/roshan-codes/floating_pill_navbar
 issue_tracker: https://github.com/roshan-codes/floating_pill_navbar/issues
 
+topics:
+  - navigation
+  - navbar
+  - bottom-navigation
+  - ui
+  - animation
+
 environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: '>=3.10.0'

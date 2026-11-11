@@ -54,4 +54,3 @@ class FloatingPillDestination {
   /// Key for the destination widget.
   final Key? key;
 }
-
